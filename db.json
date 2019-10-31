@@ -1,0 +1,71 @@
+{
+  "User" : [  
+     {
+       "id":1,
+       "email": "email@email.com",
+      "username" : "username",
+      "website" : "website.com"
+    },
+    {
+      "id":2,
+       "email": "email2@email.com",
+      "username" : "username2",
+      "website" : "website2.com"
+    },
+    {
+      "id":3,
+       "email": "email3@email.com",
+      "username" : "username3",
+      "website" : "website3.com"
+    }
+  ],
+  "Note": [
+    {
+      "userId":1,
+      "id":1,
+      "title": "title1",
+      "description": "desc1",
+      "priority": 3
+      
+    },
+    {
+      "userId":1,
+      "id":2,
+      "title": "title1",
+      "description": "desc1",
+      "priority": 3
+      
+    },
+    {
+      "userId":1,
+      "id":3,
+      "title": "title1",
+      "description": "desc1",
+      "priority": 3
+      
+    },
+    {"userId":2,
+      "id":4,
+      "title": "title1",
+      "description": "desc1",
+      "priority": 3
+      
+    },
+    {"userId":2,
+      "id":5,
+      "title": "title1",
+      "description": "desc1",
+      "priority": 3
+      
+    },
+    {
+      "userId":3,
+      "id":6,
+      "title": "title1",
+      "description": "desc1",
+      "priority": 3
+      
+    }
+  ]
+  
+}
